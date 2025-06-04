@@ -16,7 +16,7 @@
 
 }
 
-/* Cercles décoratifs légers hhh */
+/* Cercles décoratifs légers */
 .container::before,
 .container::after {
   content: '';
