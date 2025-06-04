@@ -13,7 +13,7 @@ export default function WalletDashboard() {
     { id: 2, type: 'Retrait', amount: 100, date: '2025-05-17' },
     { id: 3, type: 'Achat carte', amount: 50, date: '2025-05-19' },
   ]);
-
+ ghfgf
   const [showModal, setShowModal] = useState(null);
   const [formData, setFormData] = useState({ amount: '', date: '', recipient: '' });
 
